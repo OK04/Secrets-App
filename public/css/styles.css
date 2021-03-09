@@ -1,0 +1,38 @@
+
+body {
+  background-color: #E8ECEF;
+  background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
+
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+    min-height:100%;
+    background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #1e212d;
+  background-color: #DFE8F4;
+}
+
+.text-center{
+  min-height:100%;
+  background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
+}
+
+.secret-text:hover{
+  border-style: solid  !important;
+  border-width: thin;
+  transition:  6s;
+  transition-timing-function: ease;
+}
+.submit-text{
+  text-align: center;
+  font-size: 2rem;
+  color: #1e212d;
+  background-color: #DFE8F4;
+}
